@@ -1,5 +1,7 @@
 # ExtraQ
 
+![AI Quiz Generator](images/ai-quiz-generator-screenshot.png)
+
 ## Overview
 
 ExtraQ is a web application designed to assist students by generating quizzes from PDF documents. This tool uses the Gemini Pro API to create quizzes based on the text extracted from user-uploaded PDFs. Users can specify the number of questions and their difficulty level, and also ask specific questions about the generated quiz for additional explanations.
