@@ -1,6 +1,6 @@
 # ExtraQ
 
-![AI Quiz Generator](images/ai-quiz-generator-screenshot.png)
+![AI Quiz Generator](https://github.com/MYoussef885/ExtraQ/blob/main/Screenshot%20(36).png)
 
 ## Overview
 
